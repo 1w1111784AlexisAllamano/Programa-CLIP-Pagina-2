@@ -1,0 +1,116 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Do Hyeon', sans-serif!important;
+}
+
+.bg-header1{
+    background-image: url(../img/header1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 62rem;    
+}
+
+.bg-header4{
+    background-image: url(../img/header4.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 62rem;    
+}
+
+.font-size-5{
+    font-size: 5rem;
+}
+
+.font-size-3{
+    font-size: 3rem;
+}
+
+.font-size-p{
+    font-size: 1.4rem;
+}
+
+.text-aling{
+    text-align: center;
+}
+
+.titulo{
+    font-family: 'Russo One', sans-serif;
+    
+}
+
+.mt-10{
+    margin-top: 10rem;
+}
+
+.bg-dark-2{
+    background-color: rgba(20, 20, 20, 0.904);
+}
+
+.sombra{
+    -webkit-box-shadow: 2px 25px 34px 10px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 25px 34px 10px rgba(0,0,0,0.75);
+box-shadow: 2px 25px 34px 10px rgba(0,0,0,0.75);
+}
+
+.text-black{
+    color: black;
+}
+
+.borde-tarjeta{
+    border: 8px solid #c0c0c0!important;
+    border-radius: 50px 0px 50px 0px!important;
+-moz-border-radius: 50px 0px 50px 0px!important;
+-webkit-border-radius: 50px 0px 50px 0px!important;
+}
+
+.bg-gris{
+    background-color: rgba(175, 175, 175, 0.486)!important;
+}
+
+.parallax {
+   
+    background-image: url(../img/parallax2.jpg);
+  
+    
+    height: 650px;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .centrar{
+      margin: 0 auto!important;
+
+  }
+
+.btn{
+    font-size: 1.4rem!important;
+   
+}
+
+.flotante {
+    display:scroll;
+        position:fixed;
+        bottom:5%;
+        right:5%;
+}
+
+.transicion{
+    transition: all 1s; max-height: 300px;
+}
+
+.max-width-100{
+    max-width: 100%!important;
+}
+
+.temporizador{
+    font-size: 6rem;
+}
